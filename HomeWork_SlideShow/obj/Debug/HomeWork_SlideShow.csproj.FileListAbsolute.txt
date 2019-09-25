@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\bin\Debug\HomeWork_SlideShow.exe.config
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\bin\Debug\HomeWork_SlideShow.exe
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\bin\Debug\HomeWork_SlideShow.pdb
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.Form1.resources
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.Properties.Resources.resources
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.exe
+C:\Users\Dell\source\repos\HomeWork_SlideShow\HomeWork_SlideShow\obj\Debug\HomeWork_SlideShow.pdb
